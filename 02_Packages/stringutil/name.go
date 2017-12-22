@@ -1,4 +1,4 @@
 package stringutil
 
-var myname = "Vinay"
+var MyName = "Vinay"
 
