@@ -1,4 +1,4 @@
-package _1_Decimals
+package main
 
 import "fmt"
 
