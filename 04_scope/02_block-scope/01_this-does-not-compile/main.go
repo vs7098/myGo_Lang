@@ -10,6 +10,7 @@ func main() {
 
 func foo() {
 	// no access to x
-	// this does not compile
+	// this does not compile\
+	x :=100
 	fmt.Println(x)
 }
